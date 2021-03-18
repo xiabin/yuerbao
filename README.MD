@@ -35,4 +35,4 @@ pip install -r requirements.txt
 
 
 ### 有问题欢迎微信联系沟通
-![wechat](http://qiniu-xb-temp.xiazixun.com/WechatI.jpeg)
+![wechat](http://qiniu-xb-temp.xiazixun.com/WechatI.jpeg?imageView2/2/w/300)
