@@ -1,0 +1,18 @@
+.DS_Store
+
+# Editor directories and files
+build
+.idea
+.vscode
+resource
+image
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+log/
+*.log
+*.png
+*__pycache__/
+project.egg-info
+*.egg
