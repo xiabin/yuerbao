@@ -24,6 +24,7 @@ pip install -r requirements.txt
 2. 登录网站 https://www.yuerbao.com/m/yuerbao/download.html 获取sessionid 然后在代码中配置，然后执行脚本
 注意session有有效期，大概30分钟，失败后，记录页数重新在爬取。
 3. 爬取脚本
+
 爬取视频
 ```
  scrapy crawl videos 
